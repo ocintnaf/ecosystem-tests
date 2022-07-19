@@ -14,8 +14,8 @@
     "vercel": "27.1.5"
   },
   "resolutions": {
-    "prisma": "3.8.0-dev.23",
-    "@prisma/client": "3.8.0-dev.23"
+    "prisma": "4.2.0-integration-debug-unpkg-com.2",
+    "@prisma/client": "4.2.0-integration-debug-unpkg-com.2"
   },
   "eslintConfig": {
     "extends": "@redwoodjs/eslint-config",
